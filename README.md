@@ -48,4 +48,6 @@ python train_compression.py \
 ## Example output
 <img width="400" height="282" alt="Screen Shot 2025-08-12 at 3 30 56 PM" src="https://github.com/user-attachments/assets/7baf2126-08f7-470b-bb21-efe452ef97af" />
 <img width="408" height="285" alt="Screen Shot 2025-08-12 at 3 39 20 PM" src="https://github.com/user-attachments/assets/fa11a10f-831a-49f7-8585-3d0040d38ce6" />
+<img width="400" height="373" alt="Screen Shot 2025-08-13 at 3 01 21 PM" src="https://github.com/user-attachments/assets/d323f5d8-9c4f-4c3b-99dd-98ac6ec5d9a9" />
 
+ 
