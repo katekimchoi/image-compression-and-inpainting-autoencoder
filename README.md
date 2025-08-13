@@ -4,7 +4,7 @@ This repository includes code for implementing an autoencoder to perform either 
 ## How to use this code
 This project uses the dog class of images in the CIFAR-10 image dataset. 
 
-It uses an argument parser to allow training parameters to be easily changed from the command line. The basic command to train image compression: 
+The basic command to train image compression: 
 ```
 python train_compression.py
 ```
